@@ -11,3 +11,5 @@ chips
 noten
 bier
 hj tripple
+peanuts
+Walnuts
